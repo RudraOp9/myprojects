@@ -1,3 +1,4 @@
+//must change the file name to ```MyClass``` before preceding
 import java.util.Scanner;
 public class MyClass {
   public static void main(String args[]) {
