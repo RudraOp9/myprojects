@@ -7,3 +7,6 @@ these files are licence free, you can use them for your taste.
 
 # Download school exam percent calculator code .
 <a href="School_exam_percentage_calculator.java" download>Click to Download</a>
+
+# 3
+<a href="Calculator.java">DOWNLOAD CALCULATOR CODE </a>
