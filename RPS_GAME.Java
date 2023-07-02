@@ -1,6 +1,7 @@
 // rock paper scissor
 // do not forgot the file name before using this code
-// in if else conditionals rename "€€€" with "/n".
+// in if else conditionals rename "€€€" with "\n".
+// due to "\n" file may look distorted , will never use it again 0☆ for it.
 import java.util.Random;
 import java.util.Scanner;
 
