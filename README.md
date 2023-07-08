@@ -4,15 +4,11 @@ In PC/ laptop ,copy the code the code into your compiler . or in android use Jdo
 these files are licence free, you can use them for your taste.
 
 # JAVA
-# 1
-download kM to Miles convertor code-
-<a href="Kilometer_to_miles_convertor.java" download>Click to Download</a>
+# 1 UTILITIES
+<a href="Kilometer_to_miles_convertor.java" download>download kM to Miles convertor code-</a>
 
-# 2 
-Download school exam percent calculator code .
-<a href="School_exam_percentage_calculator.java" download>Click to Download</a>
+<a href="School_exam_percentage_calculator.java" download>Download school exam percent calculator code </a>
 
-# 3
 <a href="Calculator.java">DOWNLOAD CALCULATOR CODE </a>
 
 # 4 Games
