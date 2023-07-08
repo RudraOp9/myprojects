@@ -15,7 +15,8 @@ Download school exam percent calculator code .
 # 3
 <a href="Calculator.java">DOWNLOAD CALCULATOR CODE </a>
 
-# 4
+# 4 Games
 
 <a href="RPS_GAME.Java">DOWNLOAD ROCK PAPER SCISSOR GAME CODE </a>
 
+<a href="GuessTheNum.java"> DOWNLOAD GUESS THE NUMBER GAME CODE </a>
