@@ -11,7 +11,7 @@ these files are licence free, you can use them for your taste.
 
 <a href="Calculator.java">DOWNLOAD CALCULATOR CODE </a>
 
-# 4 Games
+# 2 Games
 
 <a href="RPS_GAME.Java">DOWNLOAD ROCK PAPER SCISSOR GAME CODE </a>
 
