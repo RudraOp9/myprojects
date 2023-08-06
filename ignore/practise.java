@@ -1,4 +1,4 @@
-
+// this java file contains code to generate Fibonacci Sequence List. Replace line 9 input for results of your choice.
 public class practise {
 
     int num(int a, int b) {
