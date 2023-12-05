@@ -5,14 +5,18 @@ these files are licence free, you can use them for your taste.
 
 # JAVA
 # 1 UTILITIES
-<a href="Kilometer_to_miles_convertor.java" download>download kM to Miles convertor code-</a>
+<a href="Kilometer_to_miles_convertor.java" download> kM to Miles convertor - in java</a>
 
-<a href="School_exam_percentage_calculator.java" download>Download school exam percent calculator code </a>
+<a href="School_exam_percentage_calculator.java" download>school exam percent calculator - in java</a>
 
-<a href="Calculator.java">DOWNLOAD CALCULATOR CODE </a>
+<a href="Calculator.java"> CALCULATOR - in java </a>
 
 # 2 Games
 
-<a href="RPS_GAME.Java">DOWNLOAD ROCK PAPER SCISSOR GAME CODE </a>
+<a href="RPS_GAME.Java">ROCK PAPER SCISSOR GAME - java </a>
 
-<a href="GuessTheNum.java"> DOWNLOAD GUESS THE NUMBER GAME CODE </a>
+<a href="GuessTheNum.java"> GUESS THE NUMBER GAME - java </a>
+
+# 2 Android Apps
+
+<a href="https://github.com/RudraOp9/Livechatter">Live Chatter - talks to strangers </a>
