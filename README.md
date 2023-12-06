@@ -19,4 +19,4 @@ these files are licence free, you can use them for your taste.
 
 # 2 Android Apps
 
-<a href="https://github.com/RudraOp9/Livechatter">Live Chatter - talks to strangers </a>
+<a href="https://github.com/RudraOp9/Livechatter">Live Chatter - talks to strangers crr pvt </a>
